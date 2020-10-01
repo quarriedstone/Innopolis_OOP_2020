@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-HW3",
+      "appliesTo": "HW3/",
+      "type": "launch"
+    }
+  ]
+}

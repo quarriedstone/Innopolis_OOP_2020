@@ -1,0 +1,13 @@
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfoInputs.cache
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfo.cs
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\obj\Debug\netcoreapp3.1\HW3.csproj.CoreCompileInputs.cache
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\bin\Debug\netcoreapp3.1\HW3.exe
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\bin\Debug\netcoreapp3.1\HW3.deps.json
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.json
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.dev.json
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\bin\Debug\netcoreapp3.1\HW3.dll
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\bin\Debug\netcoreapp3.1\HW3.pdb
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\obj\Debug\netcoreapp3.1\HW3.dll
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\obj\Debug\netcoreapp3.1\HW3.pdb
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\obj\Debug\netcoreapp3.1\HW3.genruntimeconfig.cache
+D:\STUDIES\master-1-Year-1-semester\OOP\Innopolis_OOP_2020\HW3\obj\Debug\netcoreapp3.1\HW3.csprojAssemblyReference.cache
