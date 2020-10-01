@@ -15,6 +15,7 @@ namespace HW3
 			this.releaseDate = releaseDate;
 		}
 
+		// Override behaviour of Ship
 		public override void Move()
 		{
 			Console.WriteLine("Move by swimming");

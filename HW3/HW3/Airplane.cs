@@ -10,7 +10,8 @@ namespace HW3
 			this.weight = weight;
 			this.releaseDate = releaseDate;
 		}
-
+		
+		// Override behaviour of Airplane
 		public override void Move()
 		{
 			Console.WriteLine("Move by flying");
