@@ -21,8 +21,6 @@ public class Bank {
         Clients.remove(client);
     }
 
-    // Single responsibility principle is violated.
-    // It is better to make AccountBuilder to build accounts.
     public Account CreateAccount(Client client, String type){
         Account account = new Account(client, type);
         Accounts.add(account);
